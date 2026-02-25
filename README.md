@@ -20,13 +20,13 @@ inventory status, and customer performance.
 ## 📊 Dashboard Preview
 
 ### 🔹 Sales Performance Dashboard
-![Sales Dashboard](screenshots/dashboard_page1.png)
+![Sales Dashboard](images/Screenshot (584).png)
 
 ### 🔹 Inventory & Supplier Dashboard
-![Inventory Dashboard](screenshots/dashboard_page2.png)
+![Inventory Dashboard](images/Screenshot (585).png)
 
 ### 🔹 Customer & Delivery Insights
-![Customer Dashboard](screenshots/dashboard_page3.png)
+![Customer Dashboard](images/Screenshot (586).png)
 
 ---
 
