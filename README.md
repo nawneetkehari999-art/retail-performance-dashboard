@@ -7,22 +7,45 @@ Retail performance dashboard project using Python data generation, CSV dataset, 
 This project analyzes retail sales data to track sales, profit,
 inventory status, and customer performance.
 
+---
+
 ## 🛠 Tools Used
 - Python (Data Generation)
 - Pandas
 - Power BI
 - CSV Dataset
 
+---
+
+## 📊 Dashboard Preview
+
+### 🔹 Sales Performance Dashboard
+![Sales Dashboard](screenshots/dashboard_page1.png)
+
+### 🔹 Inventory & Supplier Dashboard
+![Inventory Dashboard](screenshots/dashboard_page2.png)
+
+### 🔹 Customer & Delivery Insights
+![Customer Dashboard](screenshots/dashboard_page3.png)
+
+---
+
 ## 📊 Key Insights
 - Region-wise sales performance
 - Category profitability analysis
 - Stock & auto-reorder tracking
 - Payment mode analysis
+- Delivery status performance
+
+---
 
 ## 📁 Project Structure
-- data/ → Dataset and Python data generator
-- dashboard/ → Power BI dashboard file
+- `data/` → Dataset and Python data generator  
+- `dashboard/` → Power BI dashboard file  
+- `screenshots/` → Dashboard preview images  
+
+---
 
 ## 🚀 Outcome
-Built an interactive dashboard to support business decision-making
-with sales and inventory insights.
+Built an interactive 3-page Power BI dashboard to support
+business decision-making using generated retail data.
