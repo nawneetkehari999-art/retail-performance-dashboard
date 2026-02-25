@@ -17,24 +17,15 @@ inventory status, and customer performance.
 
 ---
 
-sales_dashboard.png
-inventory_dashboard.png
-customer_dashboard.png
-
-
 ## 📊 Dashboard Preview
 
 ### 🔹 Sales Performance Dashboard
-![Sales Dashboard](images/sales_dashboard.png)
-
+<img width="1920" height="1080" alt="Screenshot (584)" src="https://github.com/user-attachments/assets/de350cb8-1103-4c74-9f15-6ca9f67f6175" />
 ### 🔹 Inventory & Supplier Dashboard
-![Inventory Dashboard](images/inventory_dashboard.png)
+<img width="1920" height="1080" alt="Screenshot (585)" src="https://github.com/user-attachments/assets/1fd21d1b-9067-4184-af32-cbddcaeb894d" />
 
 ### 🔹 Customer & Delivery Insights
-![Customer Dashboard](images/customer_dashboard.png)
-
-
-
+<img width="1920" height="1080" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/50b8e19b-b196-4655-aa58-6282694d977a" />
 
 ---
 
